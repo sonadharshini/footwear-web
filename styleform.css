@@ -1,0 +1,48 @@
+.name{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  
+}
+
+.age{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+}
+.dep{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  
+}
+.email{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  
+}
+button{
+    width: 100%;
+    padding: 15px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: green;
+    cursor: pointer;
+}
+table{
+  border: none;
+  border-radius: 10px;
+  background-color: lightgray;
+}
